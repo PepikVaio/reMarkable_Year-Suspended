@@ -45,15 +45,14 @@ K dispozici je verze lite, která je zcela zdarma a neobsahuje žádné omezení
 
 [![download](https://img.shields.io/badge/download-latest_release-slategray)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/releases)
 
-Pokud budete mít zájem o verzi pro, která neobsahuje vodoznak a přidává možnost plně si plánovač nakonfigurovat, neváhejte mě kontaktovat
+Pokud budete mít zájem o verzi pro, která neobsahuje vodoznak a přidává možnost plně si obrazovku nakonfigurovat, neváhejte mě kontaktovat
 
 [![en](https://img.shields.io/badge/payment-en-blue.svg)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT.md)
 [![cs](https://img.shields.io/badge/payment-cs-green.svg)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT.cs.md)
 
 ### Instalace
-* pokud máte nástroj třetí strany, tak postupujte podle pokynů v aplikaci
-
-* další možnost je nahrát tento soubor do reMarkable přes SSH
+* pokud máte nástroj třetí strany, postupujte dle pokynů v aplikaci
+* pokud máte nástroj třetí strany, můžete nahrát soubor do reMarkable za pomocí SSH
   * návod bude doplněn
 
 
