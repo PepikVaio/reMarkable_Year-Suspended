@@ -38,7 +38,7 @@ A lite version is available, which is completely free and contains no functional
 
 [![download](https://img.shields.io/badge/download-latest_release-slategray)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/releases)
 
-If you are interested in the pro version, which does not include the watermark and adds the ability to fully configure the scheduler, feel free to contact me
+If you are interested in the pro version, which does not include the watermark and adds the ability to fully configure the screen, please feel free to contact me
 
 
 [![en](https://img.shields.io/badge/payment-en-blue.svg)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT.md)
@@ -46,8 +46,7 @@ If you are interested in the pro version, which does not include the watermark a
 
 ### Installation
 * if you have a third-party tool, follow the instructions in the app
-
-* another option is to upload this file to reMarkable via SSH
+* if you don't have a third party tool, you can upload the file to reMarkable using SSH
   * instructions will be added
 
 ### Usage
