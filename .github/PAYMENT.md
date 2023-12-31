@@ -30,13 +30,13 @@ For better traceability, please add the payment information in your banking
 ### version 1.0
 * removes watermark from the picture
 
-[![price: 1,50 $](https://img.shields.io/badge/price:-1,50_$-blue)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/%24/4%2C50%20%24.png)
+[![price: 1,50 $](https://img.shields.io/badge/price:-1,50_$-blue)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/%24/1%2C50%20%24.png)
 
 ### version 2.0
 * everything included in previous versions
 * option to choose portrait or landscape version (natively portrait version)
 
-[![price: 2,50 $](https://img.shields.io/badge/price:-2,50_$-blue)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/%24/13%2C00%20%24.png)
+[![price: 2,50 $](https://img.shields.io/badge/price:-2,50_$-blue)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/%24/2%2C50%20%24.png)
 
 * *available upon request (available from the end of August)*
 * *you can try it for free for the rest of the year*
@@ -52,7 +52,7 @@ For better traceability, please add the payment information in your banking
 * everything included in previous versions
 * entry of important days (birthdays, holidays, wedding, olsava, etc...)
 
-[![price: 7,00 $](https://img.shields.io/badge/price:-7,00_$-blue)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/%24/32%2C50%20%24.png)
+[![price: 7,00 $](https://img.shields.io/badge/price:-7,00_$-blue)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/%24/7%2C00%20%24.png)
 
 ### version 5.0
 * everything included in previous versions
@@ -71,7 +71,7 @@ For better traceability, please add the payment information in your banking
 * ***i reserve the right to refuse the order if I deem it appropriate that the implementation is not possible***
 * *unlimited time-consuming*
 
-[![price: 22,00 $](https://img.shields.io/badge/price:-23,00_$-blue)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/%24/22%2C00%20%24.png)
+[![price: 22,00 $](https://img.shields.io/badge/price:-22,00_$-blue)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/%24/22%2C00%20%24.png)
 
 
 ## VIP Version
