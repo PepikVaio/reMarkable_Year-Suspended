@@ -7,21 +7,20 @@
 
 
 
-# re-Planner - Kalendář pro reMarkable a další!
+# re-Planner_Suspended - Obrazovka režimu spánku pro reMarkable!
 
-Pdf kalendář pro reMarkable 1 a 2
-* verze 2024 je nyní kompatibilní s verzí reMarkable 3.xx
-* nejsou potřeba žádné hacky
+PNG obrazovka režimu spánku pro reMarkable 1 a 2
+* proměňte svoji nudnou obrazovku režimu spánku v užitečnost a mějte na očích stále důležité informace i když reMarkable odpočívá
+* je potřeba vědět, jak tento soubor nahrát do zařízení reMarkable
 
 
 ## Popis
 
-Jedná se o šablonu pro reMarkable 1 a 2 ve formátu pdf, kterou lze na přání upravit nebo používat tak jak je zcela zdarma
+Jedná se o obrázek pro reMarkable 1 a 2 ve formátu png, kterou lze na přání upravit nebo používat tak jak je zcela zdarma
 * pokud budete mít zájem o úpravu, neváhejte mě kontaktovat
 * věnujte prosím pozornost licenčním podmínkám, kde naleznete další informace a také podmínky platby
 
-Lze použít i na jiných zařízeních
-* testováno - iPad
+Lze použít i na jiných zařízeních?
 * netestováno - Supernote | Kindle Scribe | OnyxBoox
 
 
@@ -30,10 +29,17 @@ Lze použít i na jiných zařízeních
 
 ### Závislosti
 
-Oficiální program od reMarkable nainstalovaný v PC nebo webové rozhraní reMarkable
+Budete potřebovat nástroje třetí strany nebo přístup přes SSH do reMarkable
+* Nejsem tvůrce těchto programů a nenesu žádnou zodpovědnost za způsobené potíže
 
-* [Desktop app](https://my.remarkable.com/device/desktop)
-* [Webové rozhraní](https://my.remarkable.com/myfiles)
+* [Desktop Manager (Binder)](https://www.einkpads.com/products/binder-2)
+* [RCU](http://www.davisr.me/projects/rcu/)
+* [rm2 Template Helper & Custom Screen](https://www.freeremarkabletools.com/)
+* [Screen Personalizer (Splash)](https://www.einkpads.com/products/remarkable-splash)
+* [Slithin](https://github.com/furesoft/Slithin)
+* [Template Installer Pro (v3)](https://www.einkpads.com/products/template-installer-3)
+
+
 
 ### Ke stažení
 K dispozici je verze lite, která je zcela zdarma a neobsahuje žádné omezení funkčnosti
@@ -43,14 +49,19 @@ K dispozici je verze lite, která je zcela zdarma a neobsahuje žádné omezení
 
 Pokud budete mít zájem o verzi pro, která neobsahuje vodoznak a přidává možnost plně si plánovač nakonfigurovat, neváhejte mě kontaktovat
 
-[![en](https://img.shields.io/badge/payment-en-blue.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT.md)
-[![cs](https://img.shields.io/badge/payment-cs-green.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT.cs.md)
+[![en](https://img.shields.io/badge/payment-en-blue.svg)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT.md)
+[![cs](https://img.shields.io/badge/payment-cs-green.svg)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT.cs.md)
 
 ### Instalace
-Stačí nahrát do reMarkable přes oficiální aplikaci reMarkable nebo webové rozhraní
+* pokud máte nástroj třetí strany, tak postupujte podle pokynů v aplikaci
+
+* další možnost je nahrát tento soubor do reMarkable přes SSH
+  * návod bude doplněn
+
 
 ### Používání
-Užívejte si plánování :)
+Jakmile přejde reMarkable do režimu spánku, zobrazí se vaše nová obrazovka
+* můžete stisknout tlačítko napájení pro rychlejší přechod do režimu spánku
 
 
 ## Pomoc
@@ -60,12 +71,6 @@ Vytvořte problémy, pokud najdete problém
 ## Historie verzí
 
 2024
-* přidaný 1x nový měsíc pro následující rok (leden)
-* změna barvy ikon
-* ikony se zaoblenými rohy
-* různé opravy chyb a optimalizace
-
-2023
 * první vydání
 
 
@@ -78,9 +83,4 @@ Wajsar Josef
 ## Poděkování
 
 Inspirace, úryvky kódu atd...
-* [readme - vícejazyčné](https://github.com/jonatasemidio/multilanguage-readme-pattern)
-* [readme - ikony](https://www.etsy.com/?ref=lgo)
-* [recalendar](https://github.com/klimeryk/recalendar)
-* [Eeems](https://github.com/Eeems)
-* [etsy](https://www.etsy.com/?ref=lgo)
-
+* [re-Planner](https://github.com/PepikVaio/reMarkable_re-Planner)
