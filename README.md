@@ -1,83 +1,73 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/tree/main)
-[![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/README.cs.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/tree/main)
+[![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/README.cs.md)
 [![supported: rM1](https://img.shields.io/badge/rM1-supported-green)](https://remarkable.com/store/remarkable)
 [![supported: rM2](https://img.shields.io/badge/rM2-supported-green)](https://remarkable.com/store/remarkable-2)
 [![supported: FW](https://img.shields.io/badge/fw_3.xx-supported-green)]()
-[![supported: iPad](https://img.shields.io/badge/iPad-supported-blueviolet)](https://www.apple.com/cz/ipad/)
 
+# re-Planner_Suspended - Sleep Mode Screen for reMarkable!
 
-# re-Planner - Calendar for reMarkable and more!
-
-Pdf calendar for reMarkable 1 and 2
-* version 2024 is now compatible with reMarkable 3.xx
-* no hacks needed
+Sleep screen for reMarkable 1 and 2
+* transform your dull sleep mode screen into a utility and keep important information in sight even when reMarkable is resting
+* you need to know how to upload this file to your reMarkable device
 
 ## Description
 
-This is a template for reMarkable 1 and 2 in PDF format that can be modified or used as is completely free of charge
+This is an image for reMarkable 1 and 2 in png format, which can be freely modified or used as is
 * if you are interested in customization, feel free to contact me
-* please pay attention to the license terms for further information and payment terms
+* please pay attention to the licensing terms, where you will find more information and payment terms
 
-Can also be used on other devices
-* tested - iPad
-* not tested - Supernote | Kindle Scribe | OnyxBoox
-
+Can also be used on other devices?
+* untested - Supernote | Kindle Scribe | OnyxBoox
 
 ## Getting Started
 
-### Addictions
+### Dependencies
 
-Official program from reMarkable installed on PC or the reMarkable web interface
-* [Desktop app](https://my.remarkable.com/device/desktop)
-* [Web Interface](https://my.remarkable.com/myfiles)
+You will need third-party tools or SSH access to reMarkable (I am not the creator of these programs and take no responsibility for any troubles caused)
 
-### Downloads
+* [Desktop Manager (Binder)](https://www.einkpads.com/products/binder-2)
+* [RCU](http://www.davisr.me/projects/rcu/)
+* [rm2 Template Helper & Custom Screen](https://www.freeremarkabletools.com/)
+* [Screen Personalizer (Splash)](https://www.einkpads.com/products/remarkable-splash)
+* [Slithin](https://github.com/furesoft/Slithin)
+* [Template Installer Pro (v3)](https://www.einkpads.com/products/template-installer-3)
+
+### Download
 There is a lite version that is completely free and contains no functionality restrictions
 * contains a watermark
 
-[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://github.com/PepikVaio/reMarkable_re-Planner/releases)
+[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/releases)
 
-If you are interested in the pro version, which does not include the watermark and adds the ability to fully configure the scheduler, feel free to contact me
+If you are interested in a version without a watermark and adding the option to fully configure your planner, feel free to contact me
 
-[![en](https://img.shields.io/badge/payment-en-blue.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT.md)
-[![cs](https://img.shields.io/badge/payment-cs-green.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT.cs.md)
+
+[![en](https://img.shields.io/badge/payment-en-blue.svg)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT.md)
+[![cs](https://img.shields.io/badge/payment-cs-green.svg)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT.cs.md)
 
 ### Installation
-Just upload to reMarkable via the official reMarkable app or web interface
+* if you have a third-party tool, follow the instructions in the application
 
+* another option is to upload this file to reMarkable via SSH
+  * instructions will be added
 
-### Using
-Enjoy planning :)
-
+### Usage
+Once reMarkable goes into sleep mode, your new screen will be displayed
+* you can press the power button for a faster transition to sleep mode
 
 ## Help
-Create issues if you find a problem
+Create issues if you find any problems
 
-
-## Version history
+## Version History
 
 2024
-* added 1x new month for the following year (January)
-* changed icon color
-* icons with rounded corners
-* various bug fixes and optimizations
-
-2023
 * first release
-
 
 ## Authors
 
 Wajsar Josef
 * Wajsar.Josef@hotmail.com
 
-
-## Acknowledgements
+## Acknowledgments
 
 Inspiration, code snippets, etc...
-* [readme - multi language](https://github.com/jonatasemidio/multilanguage-readme-pattern)
-* [readme - icons](https://www.etsy.com/?ref=lgo)
-* [recalendar](https://github.com/klimeryk/recalendar)
-* [Eeems](https://github.com/Eeems)
-* [etsy](https://www.etsy.com/?ref=lgo)
-
+* [re-Planner](https://github.com/PepikVaio/reMarkable_re-Planner)
