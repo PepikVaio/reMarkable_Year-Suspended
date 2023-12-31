@@ -46,18 +46,13 @@ For better traceability, please add the payment information in your banking
 * everything included in previous versions
 * cover page customization (custom image and text)
 
-[![price: 5,00 $](https://img.shields.io/badge/price:-5,00_$-blue)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/%24/22%2C00%20%24.png)
+[![price: 4,50 $](https://img.shields.io/badge/price:-4,50_$-blue)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/%24/4%2C50%20%24.png)
 
 ### version 4.0
 * everything included in previous versions
 * entry of important days (birthdays, holidays, wedding, olsava, etc...)
 
 [![price: 7,00 $](https://img.shields.io/badge/price:-7,00_$-blue)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/%24/32%2C50%20%24.png)
-
-* *avilable upon request, if you cannot afford re-Planner (student, single parent, retiree)*
-* *option to choose the current or next year (as selected)*
-* ***can be used only once per person***
-* ![price: free](https://img.shields.io/badge/price:-free-blue)
 
 ### version 5.0
 * everything included in previous versions
@@ -68,7 +63,7 @@ For better traceability, please add the payment information in your banking
   * i appreciate cooperation and text correction during translation into your language
   * *very time-consuming*
 
-[![price: 14,00 $](https://img.shields.io/badge/price:-14,00_$-blue)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/%24/43%2C50%20%24.png)
+[![price: 13,00 $](https://img.shields.io/badge/price:-13,00_$-blue)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/%24/13%2C00%20%24.png)
 
 ### version 6.0
 * everything included in previous versions
@@ -76,7 +71,7 @@ For better traceability, please add the payment information in your banking
 * ***i reserve the right to refuse the order if I deem it appropriate that the implementation is not possible***
 * *unlimited time-consuming*
 
-[![price: 23,00 $](https://img.shields.io/badge/price:-23,00_$-blue)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/%24/65%2C00%20%24.png)
+[![price: 22,00 $](https://img.shields.io/badge/price:-23,00_$-blue)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/%24/22%2C00%20%24.png)
 
 
 ## VIP Version
