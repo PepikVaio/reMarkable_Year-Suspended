@@ -15,7 +15,7 @@ This work is protected by copyright and licensed under the Creative Commons Attr
 ## Addendum to the License Agreement for the Paid Version
 
 This addendum (hereinafter referred to as the "Addendum") applies only to users who have purchased the paid version of the re-Planner product (hereinafter referred to as the "Paid Version")
-* The Paid Version is defined as the product version for which a payment has been made in the amount of 4,50 – 65,00 USD according to the payment terms
+* Paid version is defined as the version of the product for which payment has been made according to the payment terms.
 * The Paid Version may or may not be identified by a license key or another identifier
 * The Paid Version does not contain a watermark
 
