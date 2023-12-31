@@ -76,7 +76,7 @@ Pro lepší dohledatelnost prosím přidejte informace o platbě ve vašem banko
 
 
 ## VIP Verze
-* vše co je zahrnuté ve verzi 4.0 = libovolná platba (zdarma)
+* vše co je zahrnuté ve verzi 4.0 zcela zdarma nebo libovolná platba
 * ostatní dle platebních podmínek
 
 ***!Pouze pro vybrané osoby, jako poděkování těm, kteří mě podpořili a objednali si první re-Planner na rok 2023!***
