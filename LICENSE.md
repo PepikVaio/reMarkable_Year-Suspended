@@ -33,4 +33,4 @@ This addendum (hereinafter referred to as the "Addendum") applies only to users 
 
 This Addendum amends or supplements the original License Agreement only for users who have purchased the Paid Version.
 
-**Effective Date of this Addendum: 29/12/2023**
+**Effective Date of this Addendum: 31/12/2023**
