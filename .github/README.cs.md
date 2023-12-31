@@ -8,7 +8,7 @@
 
 # re-Planner_Suspended - Obrazovka režimu spánku pro reMarkable!
 
-PNG obrazovka režimu spánku pro reMarkable 1 a 2
+Obrazovka režimu spánku pro reMarkable 1 a 2
 * proměňte svoji nudnou obrazovku režimu spánku v užitečnost a mějte na očích stále důležité informace i když reMarkable odpočívá
 * je potřeba vědět, jak tento soubor nahrát do zařízení reMarkable
 
