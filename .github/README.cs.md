@@ -52,7 +52,7 @@ Pokud budete mít zájem o verzi pro, která neobsahuje vodoznak a přidává mo
 
 ### Instalace
 * pokud máte nástroj třetí strany, postupujte dle pokynů v aplikaci
-* pokud máte nástroj třetí strany, můžete nahrát soubor do reMarkable za pomocí SSH
+* pokud nemáte nástroj třetí strany, můžete nahrát soubor do reMarkable za pomocí SSH
   * návod bude doplněn
 
 
