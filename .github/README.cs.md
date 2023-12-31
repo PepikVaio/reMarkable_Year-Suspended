@@ -1,9 +1,8 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/tree/main)
-[![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/README.cs.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/tree/main)
+[![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/README.cs.md)
 [![supported: rM1](https://img.shields.io/badge/rM1-supported-green)](https://remarkable.com/store/remarkable)
 [![supported: rM2](https://img.shields.io/badge/rM2-supported-green)](https://remarkable.com/store/remarkable-2)
 [![supported: FW](https://img.shields.io/badge/fw_3.xx-supported-green)]()
-[![supported: iPad](https://img.shields.io/badge/iPad-supported-blueviolet)](https://www.apple.com/cz/ipad/)
 
 
 
@@ -45,7 +44,7 @@ Budete potřebovat nástroje třetí strany nebo přístup přes SSH do reMarkab
 K dispozici je verze lite, která je zcela zdarma a neobsahuje žádné omezení funkčnosti
 * obsahuje vodoznak
 
-[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://github.com/PepikVaio/reMarkable_re-Planner/releases)
+[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/releases)
 
 Pokud budete mít zájem o verzi pro, která neobsahuje vodoznak a přidává možnost plně si plánovač nakonfigurovat, neváhejte mě kontaktovat
 
