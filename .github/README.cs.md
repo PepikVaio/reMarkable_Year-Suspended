@@ -29,7 +29,8 @@ Lze použít i na jiných zařízeních?
 ### Závislosti
 
 Budete potřebovat nástroje třetí strany nebo přístup přes SSH do reMarkable
-* Nejsem tvůrce těchto programů a nenesu žádnou zodpovědnost za způsobené potíže
+
+Nejsem tvůrce těchto programů a nenesu žádnou zodpovědnost za způsobené potíže
 
 * [Desktop Manager (Binder)](https://www.einkpads.com/products/binder-2)
 * [RCU](http://www.davisr.me/projects/rcu/)
