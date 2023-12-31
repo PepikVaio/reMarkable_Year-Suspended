@@ -30,13 +30,13 @@ Pro lepší dohledatelnost prosím přidejte informace o platbě ve vašem banko
 ### verze 1.0
 * osdtraňuje vodoznak z obrázku
 
-[![cena: 30 Kč](https://img.shields.io/badge/cena:-30_Kč-green)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/K%C4%8D/100%20K%C4%8D.png)
+[![cena: 30 Kč](https://img.shields.io/badge/cena:-30_Kč-green)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/K%C4%8D/30%20K%C4%8D.png)
 
 ### verze 2.0
 * vše co je zahrnuté v předchozích verzích
 * možnost zvolit verzi na výšku nebo na šířku (nativně je verze na výšku)
 
-[![cena: 50 Kč](https://img.shields.io/badge/cena:-50_Kč-green)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/K%C4%8D/300%20K%C4%8D.png)
+[![cena: 50 Kč](https://img.shields.io/badge/cena:-50_Kč-green)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/K%C4%8D/50%20K%C4%8D.png)
 
   * *po žádosti o uvolnění (k dispozici od konce srpna)*
   * *můžete vyzkoušet po zbytek roku zdarma*
@@ -46,13 +46,13 @@ Pro lepší dohledatelnost prosím přidejte informace o platbě ve vašem banko
 * vše co je zahrnuté v předchozích verzích
 * přizpůsobení titulní strany (vlastní obrázek a text)
 
-[![cena: 100 Kč](https://img.shields.io/badge/cena:-100_Kč-green)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/K%C4%8D/500%20K%C4%8D.png)
+[![cena: 100 Kč](https://img.shields.io/badge/cena:-100_Kč-green)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/K%C4%8D/100%20K%C4%8D.png)
 
 ### verze 4.0
 * vše co je zahrnuté v předchozích verzích
 * zapsání významných dnů (narozeniny, svátky, svatba, olsava, atd...)
 
-[![cena: 150 Kč](https://img.shields.io/badge/cena:-150_Kč-green)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/K%C4%8D/750%20K%C4%8D.png)
+[![cena: 150 Kč](https://img.shields.io/badge/cena:-150_Kč-green)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/K%C4%8D/150%20K%C4%8D.png)
 
 ### verze 5.0
 
@@ -64,7 +64,7 @@ Pro lepší dohledatelnost prosím přidejte informace o platbě ve vašem banko
   * ocením spolupráci a korekci texu při překladu do vašeho jazyka
   * *časově velmi náročné*
 
-[![cena: 300 Kč](https://img.shields.io/badge/cena:-300_Kč-green)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/K%C4%8D/1000%20K%C4%8D.png)
+[![cena: 300 Kč](https://img.shields.io/badge/cena:-300_Kč-green)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/K%C4%8D/300%20K%C4%8D.png)
 
 ### verze 6.0
 * vše co je zahrnuté v předchozích verzích
@@ -72,7 +72,7 @@ Pro lepší dohledatelnost prosím přidejte informace o platbě ve vašem banko
   * ***vyhrazuji si právo zakázku odmítnout, pokud uznám za vhodné, že realizace není možná***
   * *neomezeno časovou náročností*
 
-[![cena: 500 Kč](https://img.shields.io/badge/cena:-500_Kč-green)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/K%C4%8D/1500%20K%C4%8D.png)
+[![cena: 500 Kč](https://img.shields.io/badge/cena:-500_Kč-green)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT_Currency/K%C4%8D/500%20K%C4%8D.png)
 
 
 ## VIP Verze
