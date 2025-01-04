@@ -1,8 +1,7 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/tree/main?tab=License-1-ov-file)
-[![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/LICENSE.cs.md)
-[![en](https://img.shields.io/badge/payment-en-blue.svg)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT.md)
-[![cs](https://img.shields.io/badge/payment-cs-green.svg)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.github/PAYMENT.cs.md)
-
+[![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.language_cs/LICENSE.cs.md)
+[![en](https://img.shields.io/badge/payment-en-blue.svg)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/tree/main/PAYMENT.md)
+[![cs](https://img.shields.io/badge/payment-cs-green.svg)](https://github.com/PepikVaio/reMarkable_re-Planner_suspended/blob/main/.language_cs/PAYMENT.cs.md)
 
 ## Creative Commons Attribution-NonCommercial-NoDerivs 4.0
 International Licence (CC BY-NC-ND 4.0)
