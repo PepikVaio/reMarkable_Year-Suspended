@@ -6,7 +6,7 @@
 
 
 
-# re-Planner_Suspended - Obrazovka režimu spánku pro reMarkable!
+# re-Planner! (suspended)
 
 Obrazovka režimu spánku pro reMarkable 1 a 2
 * proměňte svoji nudnou obrazovku režimu spánku v užitečnost a mějte na očích stále důležité informace i když reMarkable odpočívá
