@@ -4,7 +4,7 @@
 [![supported: rM2](https://img.shields.io/badge/rM2-supported-green)](https://remarkable.com/store/remarkable-2)
 [![supported: FW](https://img.shields.io/badge/fw_3.xx-supported-green)]()
 
-# re-Planner_Suspended - Sleep Mode Screen for reMarkable!
+# Suspended! for re-Planner...
 
 Sleep screen for reMarkable 1 and 2
 * turn your boring sleep screen into a utility and keep important information in sight even when reMarkable is resting
